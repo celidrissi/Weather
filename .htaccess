@@ -1,0 +1,6 @@
+RewriteEngine On # Turn on the rewriting engine
+
+RewriteRule cities/?$ php/cities.php? [NC,L]
+RewriteRule cities/:([0-9]+)/?$ php/cities.php?city_id=$1 [NC,L]
+RewriteRule cities/:([0-9]+)/weather/?$ php/cities.php?city_id=$1 [NC,L]
+RewriteRule cities/:([0-9]+)/weather/:([0-9]+)/?$ php/cities.php?city_id=$1&weather_id=$2 [NC,L]

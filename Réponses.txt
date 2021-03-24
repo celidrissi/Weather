@@ -1,0 +1,27 @@
+Exercice 1 : 
+
+A / Cet algo permet de trouver la bonne valeur de e pour laquelle on à a[e] est égal à d
+
+B/ 2 15 6 8 10
+
+Exercice 3 :
+
+1. Une Fonction réentrante est une fonction pouvant etre appellé plusieurs fois sans risques 
+(sans verrou, sans données prédifinie, ne travailler que sur des données fournies, 
+appeller d'autres programmes non réentrant, etc)  
+
+2. Les threads sont executé en parrallele du programme en cours, la ou le fork est un 
+nouveau processus issu de son processus pere.
+
+3. Le BGP est le protocole qui permet entre 2 passerelles d'echanger leurs infromations 
+de routage (Pour choisir uen meilleure route par exemple)
+
+4. Je pense que cela peut etre intéréssant à tester, cela à été mon cas (avec creative-tim) 
+maison est souvent face à de vrais machines à gaz ... On fini par s'arracher les cheuveux 
+sur deschoses au final banales...
+
+5. NewSQL veut offir les points fort de NoSQL avec des transactions ACID, une 
+Scalabilité horizontale, etc ...
+
+6. Une histoire de 'base ', le 31 (Octobre) en base 8 c'est aussi 25 (Décembre) en base 10.
+(3*8 + 1*8) = 25
